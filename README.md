@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NoiseHY
-- 💞️ Rất mong được chỉ dạy thêm trên con đường lập trình 
+- 💞️ Rất mong được chỉ dạy thêm về đường lập trình 
 - 📫 10/08/2003 
 
 <!---
